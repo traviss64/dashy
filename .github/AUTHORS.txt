@@ -122,13 +122,13 @@ Kashif Sohail <kashif.ezone@gmail.com> - 9 commits
 Alicia Sykes <alicia@futr.ai> - 10 commits
 Alejandro Pinar Ruiz <alejandropinarruiz@gmail.com> - 14 commits
 Alicia Sykes <&#x3D;> - 16 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 17 commits
 Matthias Bilger <matthias@bilger.info> - 19 commits
 aterox <church.kennetha@gmail.com> - 19 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 19 commits
 snyk-bot <snyk-bot@snyk.io> - 23 commits
 EVOTk <45015615+EVOTk@users.noreply.github.com> - 24 commits
 Marcell Fülöp <marekful@protonmail.com> - 27 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 112 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 113 commits
 liss-bot <liss-bot@d0h.co> - 204 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 207 commits
 Alicia Sykes <alicia@omg.lol> - 313 commits
