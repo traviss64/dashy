@@ -441,17 +441,10 @@
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/0n1cOn3">
-            <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
+        <a href="https://github.com/imsakg">
+            <img src="https://avatars.githubusercontent.com/u/62212589?v=4" width="80;" alt="imsakg"/>
             <br />
-            <sub><b>0n1cOn3</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dr460nf1r3">
-            <img src="https://avatars.githubusercontent.com/u/12834713?v=4" width="80;" alt="dr460nf1r3"/>
-            <br />
-            <sub><b>Nico</b></sub>
+            <sub><b>Mert Sefa AKGUN</b></sub>
         </a>
     </td>
     <td align="center">
@@ -481,15 +474,15 @@
             <br />
             <sub><b>Imlonghao</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jnach">
             <img src="https://avatars.githubusercontent.com/u/33467747?v=4" width="80;" alt="jnach"/>
             <br />
             <sub><b>Jnach</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jrobles98">
             <img src="https://avatars.githubusercontent.com/u/30221842?v=4" width="80;" alt="jrobles98"/>
@@ -524,15 +517,15 @@
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/soaibsafi">
             <img src="https://avatars.githubusercontent.com/u/11424812?v=4" width="80;" alt="soaibsafi"/>
             <br />
             <sub><b>Soaibuzzaman</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sur1v">
             <img src="https://avatars.githubusercontent.com/u/19678230?v=4" width="80;" alt="sur1v"/>
@@ -552,6 +545,13 @@
             <img src="https://avatars.githubusercontent.com/u/18572939?v=4" width="80;" alt="AmadeusGraves"/>
             <br />
             <sub><b>Ángel Fernández Sánchez</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/0n1cOn3">
+            <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
+            <br />
+            <sub><b>0n1cOn3</b></sub>
         </a>
     </td>
     <td align="center">
@@ -760,13 +760,6 @@
             <img src="https://avatars.githubusercontent.com/u/29086128?v=4" width="80;" alt="maximemoreillon"/>
             <br />
             <sub><b>Maxime Moreillon</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/imsakg">
-            <img src="https://avatars.githubusercontent.com/u/62212589?v=4" width="80;" alt="imsakg"/>
-            <br />
-            <sub><b>Mert Sefa AKGUN</b></sub>
         </a>
     </td></tr>
 </table>
